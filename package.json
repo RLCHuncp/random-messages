@@ -14,7 +14,15 @@
   "author": "@LucyCampos <rlch06.uncp@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RLCHuncp/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RLCHuncp/random-messages/issues"
+  },
+  "homepage": "https://github.com/RLCHuncp/random-messages#readme"
 }
